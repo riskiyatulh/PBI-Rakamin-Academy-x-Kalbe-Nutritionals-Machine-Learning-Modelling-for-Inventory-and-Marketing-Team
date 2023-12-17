@@ -1,2 +1,2 @@
 # PBI-Rakamin-Academy-x-Kalbe-Nutritionals-Machine-Learning-Modelling-for-Inventory-and-Marketing-Team
-As a Data Scientist Intern at Kabe Nutritionals, the onjective of this project is to develop predictive data modelling to improve company's business such as optimizing competitive business strategies or making regression and clustering for machine learning model, then preparing data visualization to present solutions to clients.
+As a Data Scientist Intern at Kabe Nutritionals, the objective of this project is to develop predictive data modelling to improve company's business such as optimizing competitive business strategies or making regression and clustering for machine learning model, then preparing data visualization to present solutions to clients.
